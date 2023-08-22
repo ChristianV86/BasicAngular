@@ -1,0 +1,32 @@
+h2 {    
+    color: red;    
+}
+
+h2, h3, p {
+    margin-bottom: 5px;
+}
+
+.container {    
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;    
+    padding: 10px;
+}
+
+.title-principal {
+    color: blue;
+    text-shadow: 2px 2px 5px black;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.numero {
+    font-size: 60px;
+    color: green;
+    margin: 0;
+}
+
+.container-numero {    
+    border: 1px solid red;
+}
